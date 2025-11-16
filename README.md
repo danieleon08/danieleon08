@@ -41,7 +41,7 @@
 * 🎨 I'm a **self-taught UI designer**
 * 📱 I develop **mobile apps using Android Studio, Kotlin, and Flutter**
 * 🎓 I'm a **Systems Engineering student at Javeriana University** (graduating in June 2026)
-* 🌐 You can check some of my projects on [my portfolio](https://my-landing-page-neon-three.vercel.app)
+* 🌐 You can check some of my projects on https://portafolio.danielleon.cc
 
 <p align="left">
   <a href="https://github.com/daniel-leonpe"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
